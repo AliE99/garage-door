@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m32def.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Debug/Project_assembely.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Debug/Project_assembely.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Debug\Project_assembely.map</FILE>
+  <FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Debug\Project_assembely.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>21</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>49</LINE></EX0_ISR>
+  <EX1_ISR><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>54</LINE></EX1_ISR>
+  <EX2_ISR><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>101</LINE></EX2_ISR>
+  <HERE><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>46</LINE></HERE>
+  <IS_OPENING><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>65</LINE></IS_OPENING>
+  <IS_HALF_OPENING><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>79</LINE></IS_HALF_OPENING>
+  <IS_CLOSING><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>86</LINE></IS_CLOSING>
+  <OVER><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>97</LINE></OVER>
+  <MUST_MAINTAIN_POSITION><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>73</LINE></MUST_MAINTAIN_POSITION>
+  <MUST_OPEN_THE_DOOR_I><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>93</LINE></MUST_OPEN_THE_DOOR_I>
+  <OPENING_POSITION><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>117</LINE></OPENING_POSITION>
+  <HOLD_POSITION><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>112</LINE></HOLD_POSITION>
+  <over2><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>127</LINE></over2>
+  <MUST_OPEN_THE_DOOR><FILE>C:\Users\Iman\Documents\Atmel Studio\Project_assembely\Project_assembely\Project_assembely.asm</FILE><LINE>123</LINE></MUST_OPEN_THE_DOOR>
+ </LABELS>
+</ASSEMBLER_INFO>
